@@ -1,0 +1,12 @@
+c:\users\dom\documents\visual studio 2010\Projects\Team Manager\Team Manager\bin\Debug\Team Manager.exe
+c:\users\dom\documents\visual studio 2010\Projects\Team Manager\Team Manager\bin\Debug\Team Manager.pdb
+c:\users\dom\documents\visual studio 2010\Projects\Team Manager\Team Manager\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dom\documents\visual studio 2010\Projects\Team Manager\Team Manager\obj\x86\Debug\Team_Manager.Properties.Resources.resources
+c:\users\dom\documents\visual studio 2010\Projects\Team Manager\Team Manager\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dom\documents\visual studio 2010\Projects\Team Manager\Team Manager\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dom\documents\visual studio 2010\Projects\Team Manager\Team Manager\obj\x86\Debug\Team Manager.exe
+c:\users\dom\documents\visual studio 2010\Projects\Team Manager\Team Manager\obj\x86\Debug\Team Manager.pdb
+c:\users\dom\documents\visual studio 2010\Projects\Team Manager\Team Manager\obj\x86\Debug\Team_Manager.Main.resources
+c:\users\dom\documents\visual studio 2010\Projects\Team Manager\Team Manager\obj\x86\Debug\Team_Manager.NewEmployeeForm.resources
+c:\users\dom\documents\visual studio 2010\Projects\Team Manager\Team Manager\obj\x86\Debug\Team_Manager.NewJobForm.resources
+C:\Users\Dom\documents\visual studio 2010\Projects\Team Manager\Team Manager\obj\x86\Debug\Team_Manager.NewRoleForm.resources
